@@ -1,0 +1,84 @@
+Package: com.ps.amber
+Name: Amber
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: Amber-ify your LED torch.
+Author: PoomSmart
+Maintainer: PoomSmart
+Section: Tweaks
+Depiction: https://poomsmart.github.io/repo/depictions/amber.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/amber.json
+Version: 1.0.2
+Installed-Size: 592
+Filename: debs/com.ps.amber_1.0.2_iphoneos-arm.deb
+Depiction: https://github.com/HyperCheetah/Repo.git/depictions/com.ps.amber.html
+Icon: https://github.com/HyperCheetah/Repo.git/icons/com.ps.amber.png
+Size: 39170
+MD5sum: 1c2366f5d37f84bdf9158767b4ef6de3
+SHA1: 06d5e62e696757ba0c42d8b4de5dda2c29679d9e
+SHA256: cf1bf66f2bae6f0d22705b9f93f0574886c6bfc40775e027726f61e4807723bb
+SHA521: 5cb2ea689313e1cc0ccd1a3ffac0b3183ace10defd9def95178753a6684524164eda727ffe3e9a22b92d6c9ea6d5cc331105991278ae1ea957d0b42f639b68ca
+
+Package: com.ps.amber
+Name: Amber
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Amber-ify your LED torch.
+Author: PoomSmart
+Maintainer: PoomSmart
+Section: Tweaks
+Depiction: https://poomsmart.github.io/repo/depictions/amber.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/amber.json
+Version: 1.1.0
+Installed-Size: 304
+Filename: debs/com.ps.amber_1.1.0_iphoneos-arm.deb
+Depiction: https://github.com/HyperCheetah/Repo.git/depictions/com.ps.amber.html
+Icon: https://github.com/HyperCheetah/Repo.git/icons/com.ps.amber.png
+Size: 9374
+MD5sum: 554fe4fadd5336f782045132a302e3be
+SHA1: 218b0abe407dc46fb4c76a442fdda611eaa9ca2b
+SHA256: 0b0ca458c735e38b6029f770b28e04cef3c1db4ea45dc8d87d08de6689fad16f
+SHA521: 766192b34616260254039d086a5da7efeaf74f7a01727ccf57ad92d8f610c82cb4d137b54f5ea44c2751f372d2941fec4f60872bdbf88ef5d260a984c911c9d3
+
+Package: com.ps.amber
+Name: Amber
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Amber-ify your LED torch.
+Author: PoomSmart
+Maintainer: PoomSmart
+Section: Tweaks
+Depiction: https://poomsmart.github.io/repo/depictions/amber.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/amber.json
+Version: 1.1.1
+Installed-Size: 304
+Filename: debs/com.ps.amber_1.1.1_iphoneos-arm.deb
+Depiction: https://github.com/HyperCheetah/Repo.git/depictions/com.ps.amber.html
+Icon: https://github.com/HyperCheetah/Repo.git/icons/com.ps.amber.png
+Size: 9364
+MD5sum: 2e1367b2a5f9a3cb4ff976b6ed160c05
+SHA1: 2a47d2ae39244b7fdaadabf49de79eb1a76bbd09
+SHA256: 194de559090b63756a883d78dec162cdb315725498b244d66dce02da1a30d24c
+SHA521: 2785292b2cc7d67e172a3632a88bc3ffc73b731454e8ab59a1a0d63c51674e6cb49ce707b177271a8d06f778beecb7002fadf6e1dab01c2c16a797c21a1552c9
+
+Package: com.ps.amber
+Name: Amber
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
+Architecture: iphoneos-arm
+Description: Amber-ify your LED torch.
+Author: PoomSmart
+Maintainer: PoomSmart
+Section: Tweaks
+Depiction: https://poomsmart.github.io/repo/depictions/amber.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/amber.json
+Version: 1.2.0
+Installed-Size: 368
+Filename: debs/com.ps.amber_1.2.0_iphoneos-arm.deb
+Depiction: https://github.com/HyperCheetah/Repo.git/depictions/com.ps.amber.html
+Icon: https://github.com/HyperCheetah/Repo.git/icons/com.ps.amber.png
+Size: 9420
+MD5sum: 5df4157eb915da580b0fa0cb23fd4c0b
+SHA1: f490fbcf972fb004b14206e4f4fa89f2ea04f055
+SHA256: 37dd1b4cc14ecfc3085b4b5db904f5cc5e52f4937dda2c9611e38aae39f29890
+SHA521: 237aecaac505ad11d7067990694913bf5c26fbf3ee06bde020d20085f39404d55d770b87a0f31e119495403844bf1d35d18f7e198a387996db4650dd9b5fe9d8
+

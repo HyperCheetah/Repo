@@ -1,0 +1,8 @@
+Origin: D0LPHIN
+Label: D0LPHIN
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A Repo With Tweaks and More!
